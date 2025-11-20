@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Token Unlock Calendar";
+export const description = "Track token vesting schedules and avoid sudden dumps.";
 export const url = process.env.NEXT_PUBLIC_URL;
