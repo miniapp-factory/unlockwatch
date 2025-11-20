@@ -1,0 +1,46 @@
+
+# 2025-11-20 19:19:07.538970
++Code the following app
++```
++Idea: A calendar for Token Unlocks (Vesting schedules).
++User Goal: Avoid holding a bag when early investors or the team dump their unlocked tokens.
++Core Features (MVP):
++
++* Calendar view of upcoming major unlocks.
++* Data: Token, Date, % of Supply Unlocked, Dollar Value.
++* "Impact Score": Ratio of unlocked amount vs. daily trading volume.
++* Countdown timer.
++
++Development Plan:
++
++1. Curate a database of vesting schedules (Tokenomics whitepapers or API like TokenUnlocks).
++2. Build a backend to check daily volume (via Coingecko/CMC API).
++3. Calculate the "Impact Score" (Selling pressure potential).
++4. UI: A sorted list/calendar "Next 7 Days of Unlocks".
++5. Automated weekly email summary.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-20 19:19:07.542398
++Code the following app
++```
++Idea: A calendar for Token Unlocks (Vesting schedules).
++User Goal: Avoid holding a bag when early investors or the team dump their unlocked tokens.
++Core Features (MVP):
++
++* Calendar view of upcoming major unlocks.
++* Data: Token, Date, % of Supply Unlocked, Dollar Value.
++* "Impact Score": Ratio of unlocked amount vs. daily trading volume.
++* Countdown timer.
++
++Development Plan:
++
++1. Curate a database of vesting schedules (Tokenomics whitepapers or API like TokenUnlocks).
++2. Build a backend to check daily volume (via Coingecko/CMC API).
++3. Calculate the "Impact Score" (Selling pressure potential).
++4. UI: A sorted list/calendar "Next 7 Days of Unlocks".
++5. Automated weekly email summary.
++```
++
++Generate an app logo and update the app metadata title and description.
